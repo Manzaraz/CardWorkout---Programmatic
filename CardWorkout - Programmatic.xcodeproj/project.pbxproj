@@ -13,6 +13,7 @@
 		618E7AF02C6A90D500089C12 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 618E7AEF2C6A90D500089C12 /* Base */; };
 		618E7AF82C6A92F500089C12 /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618E7AF72C6A92F500089C12 /* CardSelectionVC.swift */; };
 		618E7AFA2C6A951000089C12 /* CWButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618E7AF92C6A951000089C12 /* CWButton.swift */; };
+		618E7AFC2C6A9F4100089C12 /* RulesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618E7AFB2C6A9F4100089C12 /* RulesVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		618E7AF12C6A90D500089C12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		618E7AF72C6A92F500089C12 /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionVC.swift; sourceTree = "<group>"; };
 		618E7AF92C6A951000089C12 /* CWButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CWButton.swift; sourceTree = "<group>"; };
+		618E7AFB2C6A9F4100089C12 /* RulesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				618E7AE52C6A90D300089C12 /* SceneDelegate.swift */,
 				618E7AF72C6A92F500089C12 /* CardSelectionVC.swift */,
 				618E7AF92C6A951000089C12 /* CWButton.swift */,
+				618E7AFB2C6A9F4100089C12 /* RulesVC.swift */,
 				618E7AEC2C6A90D500089C12 /* Assets.xcassets */,
 				618E7AEE2C6A90D500089C12 /* LaunchScreen.storyboard */,
 				618E7AF12C6A90D500089C12 /* Info.plist */,
@@ -140,6 +143,7 @@
 				618E7AE42C6A90D300089C12 /* AppDelegate.swift in Sources */,
 				618E7AE62C6A90D300089C12 /* SceneDelegate.swift in Sources */,
 				618E7AF82C6A92F500089C12 /* CardSelectionVC.swift in Sources */,
+				618E7AFC2C6A9F4100089C12 /* RulesVC.swift in Sources */,
 				618E7AFA2C6A951000089C12 /* CWButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
